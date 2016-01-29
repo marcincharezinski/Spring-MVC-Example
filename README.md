@@ -32,7 +32,7 @@ View is rendered by simple *.jsp files with bootstrap support.
 
 
 
-Application give simple API to check registered users.
+Application gives a simple API to check registered users.
 
 ```
 http://localhost:8080/standalone/product/${id}/api/users
