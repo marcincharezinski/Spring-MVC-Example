@@ -1,4 +1,4 @@
-# SpringMVCAppFix
+# Spring MVC Example
 
 Simple CRUD application implementing Internet Recruitment System.
 
